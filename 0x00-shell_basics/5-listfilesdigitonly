@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la [characters] [0-9]
+ls -la
